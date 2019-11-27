@@ -1,0 +1,1381 @@
+[2018-09-27T13:58:32.865Z] PM2 log: ===============================================================================
+[2018-09-27T13:58:32.877Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-27T13:58:32.879Z] PM2 log: Time                 : Thu Sep 27 2018 13:58:32 GMT+0800 (CST)
+[2018-09-27T13:58:32.880Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-27T13:58:32.881Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-27T13:58:32.882Z] PM2 log: Current arch         : arm
+[2018-09-27T13:58:32.883Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-27T13:58:32.884Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-27T13:58:32.885Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-27T13:58:32.886Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-27T13:58:32.887Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-27T13:58:32.888Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-27T13:58:32.890Z] PM2 log: Concurrent actions   : 2
+[2018-09-27T13:58:32.891Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-27T13:58:32.892Z] PM2 log: ===============================================================================
+[2018-09-27T14:50:21.703Z] PM2 log: ===============================================================================
+[2018-09-27T14:50:21.727Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-27T14:50:21.731Z] PM2 log: Time                 : Thu Sep 27 2018 14:50:21 GMT+0800 (CST)
+[2018-09-27T14:50:21.733Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-27T14:50:21.735Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-27T14:50:21.736Z] PM2 log: Current arch         : arm
+[2018-09-27T14:50:21.738Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-27T14:50:21.740Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-27T14:50:21.741Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-27T14:50:21.743Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-27T14:50:21.745Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-27T14:50:21.746Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-27T14:50:21.748Z] PM2 log: Concurrent actions   : 2
+[2018-09-27T14:50:21.749Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-27T14:50:21.751Z] PM2 log: ===============================================================================
+[2018-09-27T15:44:29.925Z] PM2 log: ===============================================================================
+[2018-09-27T15:44:29.938Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-27T15:44:29.940Z] PM2 log: Time                 : Thu Sep 27 2018 15:44:29 GMT+0800 (CST)
+[2018-09-27T15:44:29.941Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-27T15:44:29.942Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-27T15:44:29.943Z] PM2 log: Current arch         : arm
+[2018-09-27T15:44:29.943Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-27T15:44:29.944Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-27T15:44:29.945Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-27T15:44:29.946Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-27T15:44:29.947Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-27T15:44:29.948Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-27T15:44:29.948Z] PM2 log: Concurrent actions   : 2
+[2018-09-27T15:44:29.949Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-27T15:44:29.950Z] PM2 log: ===============================================================================
+[2018-09-27T16:51:02.759Z] PM2 log: ===============================================================================
+[2018-09-27T16:51:02.774Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-27T16:51:02.776Z] PM2 log: Time                 : Thu Sep 27 2018 16:51:02 GMT+0800 (CST)
+[2018-09-27T16:51:02.777Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-27T16:51:02.778Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-27T16:51:02.778Z] PM2 log: Current arch         : arm
+[2018-09-27T16:51:02.780Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-27T16:51:02.784Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-27T16:51:02.785Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-27T16:51:02.786Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-27T16:51:02.787Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-27T16:51:02.788Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-27T16:51:02.789Z] PM2 log: Concurrent actions   : 2
+[2018-09-27T16:51:02.791Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-27T16:51:02.792Z] PM2 log: ===============================================================================
+[2018-09-27T18:12:35.173Z] PM2 log: PM2 successfully stopped
+[2018-09-27T18:12:52.441Z] PM2 log: ===============================================================================
+[2018-09-27T18:12:52.456Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-27T18:12:52.458Z] PM2 log: Time                 : Thu Sep 27 2018 18:12:52 GMT+0800 (CST)
+[2018-09-27T18:12:52.459Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-27T18:12:52.460Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-27T18:12:52.461Z] PM2 log: Current arch         : arm
+[2018-09-27T18:12:52.462Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-27T18:12:52.463Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-27T18:12:52.464Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-27T18:12:52.465Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-27T18:12:52.466Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-27T18:12:52.467Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-27T18:12:52.467Z] PM2 log: Concurrent actions   : 2
+[2018-09-27T18:12:52.471Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-27T18:12:52.472Z] PM2 log: ===============================================================================
+[2018-09-27T19:24:04.789Z] PM2 log: PM2 successfully stopped
+[2018-09-27T19:24:21.274Z] PM2 log: ===============================================================================
+[2018-09-27T19:24:21.288Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-27T19:24:21.290Z] PM2 log: Time                 : Thu Sep 27 2018 19:24:21 GMT+0800 (CST)
+[2018-09-27T19:24:21.291Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-27T19:24:21.292Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-27T19:24:21.293Z] PM2 log: Current arch         : arm
+[2018-09-27T19:24:21.294Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-27T19:24:21.295Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-27T19:24:21.296Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-27T19:24:21.297Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-27T19:24:21.298Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-27T19:24:21.299Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-27T19:24:21.299Z] PM2 log: Concurrent actions   : 2
+[2018-09-27T19:24:21.300Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-27T19:24:21.301Z] PM2 log: ===============================================================================
+[2018-09-27T19:51:18.312Z] PM2 log: PM2 successfully stopped
+[2018-09-27T19:51:35.424Z] PM2 log: ===============================================================================
+[2018-09-27T19:51:35.439Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-27T19:51:35.441Z] PM2 log: Time                 : Thu Sep 27 2018 19:51:35 GMT+0800 (CST)
+[2018-09-27T19:51:35.442Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-27T19:51:35.443Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-27T19:51:35.444Z] PM2 log: Current arch         : arm
+[2018-09-27T19:51:35.445Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-27T19:51:35.446Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-27T19:51:35.447Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-27T19:51:35.448Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-27T19:51:35.449Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-27T19:51:35.450Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-27T19:51:35.451Z] PM2 log: Concurrent actions   : 2
+[2018-09-27T19:51:35.452Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-27T19:51:35.452Z] PM2 log: ===============================================================================
+[2018-09-28T02:31:42.105Z] PM2 log: PM2 successfully stopped
+[2018-09-28T02:31:59.311Z] PM2 log: ===============================================================================
+[2018-09-28T02:31:59.324Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-28T02:31:59.326Z] PM2 log: Time                 : Fri Sep 28 2018 02:31:59 GMT+0800 (CST)
+[2018-09-28T02:31:59.327Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-28T02:31:59.328Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-28T02:31:59.329Z] PM2 log: Current arch         : arm
+[2018-09-28T02:31:59.330Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-28T02:31:59.331Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-28T02:31:59.332Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-28T02:31:59.333Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-28T02:31:59.334Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-28T02:31:59.336Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-28T02:31:59.337Z] PM2 log: Concurrent actions   : 2
+[2018-09-28T02:31:59.338Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-28T02:31:59.339Z] PM2 log: ===============================================================================
+[2018-09-28T02:36:22.020Z] PM2 log: ===============================================================================
+[2018-09-28T02:36:22.035Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-28T02:36:22.037Z] PM2 log: Time                 : Fri Sep 28 2018 02:36:22 GMT+0800 (CST)
+[2018-09-28T02:36:22.038Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-28T02:36:22.039Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-28T02:36:22.040Z] PM2 log: Current arch         : arm
+[2018-09-28T02:36:22.041Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-28T02:36:22.042Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-28T02:36:22.043Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-28T02:36:22.044Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-28T02:36:22.045Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-28T02:36:22.046Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-28T02:36:22.047Z] PM2 log: Concurrent actions   : 2
+[2018-09-28T02:36:22.047Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-28T02:36:22.048Z] PM2 log: ===============================================================================
+[2018-09-28T08:52:07.304Z] PM2 log: ===============================================================================
+[2018-09-28T08:52:07.317Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-28T08:52:07.319Z] PM2 log: Time                 : Fri Sep 28 2018 08:52:07 GMT+0800 (CST)
+[2018-09-28T08:52:07.320Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-28T08:52:07.321Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-28T08:52:07.322Z] PM2 log: Current arch         : arm
+[2018-09-28T08:52:07.322Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-28T08:52:07.323Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-28T08:52:07.324Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-28T08:52:07.325Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-28T08:52:07.326Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-28T08:52:07.327Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-28T08:52:07.328Z] PM2 log: Concurrent actions   : 2
+[2018-09-28T08:52:07.329Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-28T08:52:07.330Z] PM2 log: ===============================================================================
+[2018-09-28T09:00:54.572Z] PM2 log: ===============================================================================
+[2018-09-28T09:00:54.588Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-28T09:00:54.590Z] PM2 log: Time                 : Fri Sep 28 2018 09:00:54 GMT+0800 (CST)
+[2018-09-28T09:00:54.591Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-28T09:00:54.592Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-28T09:00:54.592Z] PM2 log: Current arch         : arm
+[2018-09-28T09:00:54.593Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-28T09:00:54.594Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-28T09:00:54.595Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-28T09:00:54.596Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-28T09:00:54.597Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-28T09:00:54.598Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-28T09:00:54.599Z] PM2 log: Concurrent actions   : 2
+[2018-09-28T09:00:54.600Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-28T09:00:54.601Z] PM2 log: ===============================================================================
+[2018-09-28T09:04:21.516Z] PM2 log: PM2 successfully stopped
+[2018-09-28T09:04:37.464Z] PM2 log: ===============================================================================
+[2018-09-28T09:04:37.480Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-28T09:04:37.483Z] PM2 log: Time                 : Fri Sep 28 2018 09:04:37 GMT+0800 (CST)
+[2018-09-28T09:04:37.484Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-28T09:04:37.486Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-28T09:04:37.487Z] PM2 log: Current arch         : arm
+[2018-09-28T09:04:37.488Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-28T09:04:37.489Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-28T09:04:37.490Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-28T09:04:37.491Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-28T09:04:37.492Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-28T09:04:37.493Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-28T09:04:37.494Z] PM2 log: Concurrent actions   : 2
+[2018-09-28T09:04:37.495Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-28T09:04:37.496Z] PM2 log: ===============================================================================
+[2018-09-28T09:06:54.505Z] PM2 log: ===============================================================================
+[2018-09-28T09:06:54.519Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-28T09:06:54.520Z] PM2 log: Time                 : Fri Sep 28 2018 09:06:54 GMT+0800 (CST)
+[2018-09-28T09:06:54.521Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-28T09:06:54.522Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-28T09:06:54.523Z] PM2 log: Current arch         : arm
+[2018-09-28T09:06:54.524Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-28T09:06:54.525Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-28T09:06:54.526Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-28T09:06:54.526Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-28T09:06:54.527Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-28T09:06:54.528Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-28T09:06:54.529Z] PM2 log: Concurrent actions   : 2
+[2018-09-28T09:06:54.530Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-28T09:06:54.531Z] PM2 log: ===============================================================================
+[2018-09-28T10:17:19.079Z] PM2 log: ===============================================================================
+[2018-09-28T10:17:19.093Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-28T10:17:19.095Z] PM2 log: Time                 : Fri Sep 28 2018 10:17:19 GMT+0800 (CST)
+[2018-09-28T10:17:19.096Z] PM2 log: PM2 version          : 3.1.3
+[2018-09-28T10:17:19.097Z] PM2 log: Node.js version      : 9.11.2
+[2018-09-28T10:17:19.098Z] PM2 log: Current arch         : arm
+[2018-09-28T10:17:19.099Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-09-28T10:17:19.099Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-09-28T10:17:19.100Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-09-28T10:17:19.101Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-09-28T10:17:19.102Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-09-28T10:17:19.103Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-09-28T10:17:19.104Z] PM2 log: Concurrent actions   : 2
+[2018-09-28T10:17:19.105Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-28T10:17:19.105Z] PM2 log: ===============================================================================
+[2018-10-05T10:22:48.273Z] PM2 log: ===============================================================================
+[2018-10-05T10:22:48.300Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-10-05T10:22:48.303Z] PM2 log: Time                 : Fri Oct 05 2018 10:22:48 GMT+0800 (CST)
+[2018-10-05T10:22:48.305Z] PM2 log: PM2 version          : 3.1.3
+[2018-10-05T10:22:48.307Z] PM2 log: Node.js version      : 9.11.2
+[2018-10-05T10:22:48.308Z] PM2 log: Current arch         : arm
+[2018-10-05T10:22:48.310Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-10-05T10:22:48.312Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-10-05T10:22:48.313Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-10-05T10:22:48.315Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-10-05T10:22:48.316Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-10-05T10:22:48.318Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-10-05T10:22:48.320Z] PM2 log: Concurrent actions   : 2
+[2018-10-05T10:22:48.321Z] PM2 log: SIGTERM timeout      : 1600
+[2018-10-05T10:22:48.323Z] PM2 log: ===============================================================================
+[2018-10-05T12:17:16.040Z] PM2 log: ===============================================================================
+[2018-10-05T12:17:16.056Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-10-05T12:17:16.058Z] PM2 log: Time                 : Fri Oct 05 2018 12:17:16 GMT+0800 (CST)
+[2018-10-05T12:17:16.059Z] PM2 log: PM2 version          : 3.1.3
+[2018-10-05T12:17:16.061Z] PM2 log: Node.js version      : 9.11.2
+[2018-10-05T12:17:16.062Z] PM2 log: Current arch         : arm
+[2018-10-05T12:17:16.063Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-10-05T12:17:16.064Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-10-05T12:17:16.065Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-10-05T12:17:16.066Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-10-05T12:17:16.067Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-10-05T12:17:16.068Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-10-05T12:17:16.069Z] PM2 log: Concurrent actions   : 2
+[2018-10-05T12:17:16.070Z] PM2 log: SIGTERM timeout      : 1600
+[2018-10-05T12:17:16.071Z] PM2 log: ===============================================================================
+[2018-10-08T10:20:41.262Z] PM2 log: ===============================================================================
+[2018-10-08T10:20:41.276Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-10-08T10:20:41.278Z] PM2 log: Time                 : Mon Oct 08 2018 10:20:41 GMT+0800 (CST)
+[2018-10-08T10:20:41.279Z] PM2 log: PM2 version          : 3.1.3
+[2018-10-08T10:20:41.280Z] PM2 log: Node.js version      : 9.11.2
+[2018-10-08T10:20:41.281Z] PM2 log: Current arch         : arm
+[2018-10-08T10:20:41.281Z] PM2 log: PM2 home             : /home/pi/probemon/.pm2
+[2018-10-08T10:20:41.282Z] PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+[2018-10-08T10:20:41.283Z] PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+[2018-10-08T10:20:41.284Z] PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+[2018-10-08T10:20:41.285Z] PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+[2018-10-08T10:20:41.285Z] PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+[2018-10-08T10:20:41.286Z] PM2 log: Concurrent actions   : 2
+[2018-10-08T10:20:41.287Z] PM2 log: SIGTERM timeout      : 1600
+[2018-10-08T10:20:41.288Z] PM2 log: ===============================================================================
+2018-11-15T14:25:55: PM2 log: ===============================================================================
+2018-11-15T14:25:55: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-15T14:25:55: PM2 log: Time                 : Thu Nov 15 2018 14:25:55 GMT+0800 (CST)
+2018-11-15T14:25:55: PM2 log: PM2 version          : 3.2.2
+2018-11-15T14:25:55: PM2 log: Node.js version      : 9.11.2
+2018-11-15T14:25:55: PM2 log: Current arch         : arm
+2018-11-15T14:25:55: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-15T14:25:55: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-15T14:25:55: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-15T14:25:55: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-15T14:25:55: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-15T14:25:55: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-15T14:25:55: PM2 log: Concurrent actions   : 2
+2018-11-15T14:25:55: PM2 log: SIGTERM timeout      : 1600
+2018-11-15T14:25:55: PM2 log: ===============================================================================
+2018-11-15T14:25:35: PM2 log: ===============================================================================
+2018-11-15T14:25:35: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-15T14:25:35: PM2 log: Time                 : Thu Nov 15 2018 14:25:35 GMT+0800 (CST)
+2018-11-15T14:25:35: PM2 log: PM2 version          : 3.2.2
+2018-11-15T14:25:35: PM2 log: Node.js version      : 9.11.2
+2018-11-15T14:25:35: PM2 log: Current arch         : arm
+2018-11-15T14:25:35: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-15T14:25:35: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-15T14:25:35: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-15T14:25:35: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-15T14:25:35: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-15T14:25:35: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-15T14:25:35: PM2 log: Concurrent actions   : 2
+2018-11-15T14:25:35: PM2 log: SIGTERM timeout      : 1600
+2018-11-15T14:25:35: PM2 log: ===============================================================================
+2018-11-15T15:52:08: PM2 log: PM2 successfully stopped
+2018-11-15T15:52:29: PM2 log: ===============================================================================
+2018-11-15T15:52:29: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-15T15:52:29: PM2 log: Time                 : Thu Nov 15 2018 15:52:29 GMT+0800 (CST)
+2018-11-15T15:52:29: PM2 log: PM2 version          : 3.2.2
+2018-11-15T15:52:29: PM2 log: Node.js version      : 9.11.2
+2018-11-15T15:52:29: PM2 log: Current arch         : arm
+2018-11-15T15:52:29: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-15T15:52:29: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-15T15:52:29: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-15T15:52:29: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-15T15:52:29: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-15T15:52:29: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-15T15:52:29: PM2 log: Concurrent actions   : 2
+2018-11-15T15:52:29: PM2 log: SIGTERM timeout      : 1600
+2018-11-15T15:52:29: PM2 log: ===============================================================================
+2018-11-15T15:53:03: PM2 log: ===============================================================================
+2018-11-15T15:53:03: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-15T15:53:03: PM2 log: Time                 : Thu Nov 15 2018 15:53:03 GMT+0800 (CST)
+2018-11-15T15:53:03: PM2 log: PM2 version          : 3.2.2
+2018-11-15T15:53:03: PM2 log: Node.js version      : 9.11.2
+2018-11-15T15:53:03: PM2 log: Current arch         : arm
+2018-11-15T15:53:03: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-15T15:53:03: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-15T15:53:03: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-15T15:53:03: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-15T15:53:03: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-15T15:53:03: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-15T15:53:03: PM2 log: Concurrent actions   : 2
+2018-11-15T15:53:03: PM2 log: SIGTERM timeout      : 1600
+2018-11-15T15:53:03: PM2 log: ===============================================================================
+2018-11-15T16:00:35: PM2 log: ===============================================================================
+2018-11-15T16:00:35: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-15T16:00:35: PM2 log: Time                 : Thu Nov 15 2018 16:00:35 GMT+0800 (CST)
+2018-11-15T16:00:35: PM2 log: PM2 version          : 3.2.2
+2018-11-15T16:00:35: PM2 log: Node.js version      : 9.11.2
+2018-11-15T16:00:35: PM2 log: Current arch         : arm
+2018-11-15T16:00:35: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-15T16:00:35: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-15T16:00:35: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-15T16:00:35: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-15T16:00:35: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-15T16:00:35: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-15T16:00:35: PM2 log: Concurrent actions   : 2
+2018-11-15T16:00:35: PM2 log: SIGTERM timeout      : 1600
+2018-11-15T16:00:35: PM2 log: ===============================================================================
+2018-11-15T16:17:17: PM2 log: ===============================================================================
+2018-11-15T16:17:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-15T16:17:17: PM2 log: Time                 : Thu Nov 15 2018 16:17:17 GMT+0800 (CST)
+2018-11-15T16:17:17: PM2 log: PM2 version          : 3.2.2
+2018-11-15T16:17:17: PM2 log: Node.js version      : 9.11.2
+2018-11-15T16:17:17: PM2 log: Current arch         : arm
+2018-11-15T16:17:17: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-15T16:17:17: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-15T16:17:17: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-15T16:17:17: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-15T16:17:17: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-15T16:17:17: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-15T16:17:17: PM2 log: Concurrent actions   : 2
+2018-11-15T16:17:17: PM2 log: SIGTERM timeout      : 1600
+2018-11-15T16:17:17: PM2 log: ===============================================================================
+2018-11-16T16:52:07: PM2 log: PM2 successfully stopped
+2018-11-16T16:52:26: PM2 log: ===============================================================================
+2018-11-16T16:52:26: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-16T16:52:26: PM2 log: Time                 : Fri Nov 16 2018 16:52:26 GMT+0800 (CST)
+2018-11-16T16:52:26: PM2 log: PM2 version          : 3.2.2
+2018-11-16T16:52:26: PM2 log: Node.js version      : 9.11.2
+2018-11-16T16:52:26: PM2 log: Current arch         : arm
+2018-11-16T16:52:26: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-16T16:52:26: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-16T16:52:26: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-16T16:52:26: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-16T16:52:26: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-16T16:52:26: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-16T16:52:26: PM2 log: Concurrent actions   : 2
+2018-11-16T16:52:26: PM2 log: SIGTERM timeout      : 1600
+2018-11-16T16:52:26: PM2 log: ===============================================================================
+2018-11-19T15:17:21: PM2 log: ===============================================================================
+2018-11-19T15:17:21: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-19T15:17:21: PM2 log: Time                 : Mon Nov 19 2018 15:17:21 GMT+0800 (CST)
+2018-11-19T15:17:21: PM2 log: PM2 version          : 3.2.2
+2018-11-19T15:17:21: PM2 log: Node.js version      : 9.11.2
+2018-11-19T15:17:21: PM2 log: Current arch         : arm
+2018-11-19T15:17:21: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-19T15:17:21: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-19T15:17:21: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-19T15:17:21: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-19T15:17:21: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-19T15:17:21: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-19T15:17:21: PM2 log: Concurrent actions   : 2
+2018-11-19T15:17:21: PM2 log: SIGTERM timeout      : 1600
+2018-11-19T15:17:21: PM2 log: ===============================================================================
+2018-11-19T15:43:27: PM2 log: ===============================================================================
+2018-11-19T15:43:27: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-19T15:43:27: PM2 log: Time                 : Mon Nov 19 2018 15:43:27 GMT+0800 (CST)
+2018-11-19T15:43:27: PM2 log: PM2 version          : 3.2.2
+2018-11-19T15:43:27: PM2 log: Node.js version      : 9.11.2
+2018-11-19T15:43:27: PM2 log: Current arch         : arm
+2018-11-19T15:43:27: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-19T15:43:27: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-19T15:43:27: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-19T15:43:27: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-19T15:43:27: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-19T15:43:27: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-19T15:43:27: PM2 log: Concurrent actions   : 2
+2018-11-19T15:43:27: PM2 log: SIGTERM timeout      : 1600
+2018-11-19T15:43:27: PM2 log: ===============================================================================
+2018-11-19T15:43:51: PM2 log: PM2 successfully stopped
+2018-11-19T15:44:09: PM2 log: ===============================================================================
+2018-11-19T15:44:09: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-19T15:44:09: PM2 log: Time                 : Mon Nov 19 2018 15:44:09 GMT+0800 (CST)
+2018-11-19T15:44:09: PM2 log: PM2 version          : 3.2.2
+2018-11-19T15:44:09: PM2 log: Node.js version      : 9.11.2
+2018-11-19T15:44:09: PM2 log: Current arch         : arm
+2018-11-19T15:44:09: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-19T15:44:09: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-19T15:44:09: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-19T15:44:09: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-19T15:44:09: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-19T15:44:09: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-19T15:44:09: PM2 log: Concurrent actions   : 2
+2018-11-19T15:44:09: PM2 log: SIGTERM timeout      : 1600
+2018-11-19T15:44:09: PM2 log: ===============================================================================
+2018-11-19T16:07:22: PM2 log: ===============================================================================
+2018-11-19T16:07:22: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-19T16:07:22: PM2 log: Time                 : Mon Nov 19 2018 16:07:22 GMT+0800 (CST)
+2018-11-19T16:07:22: PM2 log: PM2 version          : 3.2.2
+2018-11-19T16:07:22: PM2 log: Node.js version      : 9.11.2
+2018-11-19T16:07:22: PM2 log: Current arch         : arm
+2018-11-19T16:07:22: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-19T16:07:22: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-19T16:07:22: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-19T16:07:22: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-19T16:07:22: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-19T16:07:22: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-19T16:07:22: PM2 log: Concurrent actions   : 2
+2018-11-19T16:07:22: PM2 log: SIGTERM timeout      : 1600
+2018-11-19T16:07:22: PM2 log: ===============================================================================
+2018-11-19T16:47:38: PM2 log: ===============================================================================
+2018-11-19T16:47:38: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-19T16:47:38: PM2 log: Time                 : Mon Nov 19 2018 16:47:38 GMT+0800 (CST)
+2018-11-19T16:47:38: PM2 log: PM2 version          : 3.2.2
+2018-11-19T16:47:38: PM2 log: Node.js version      : 9.11.2
+2018-11-19T16:47:38: PM2 log: Current arch         : arm
+2018-11-19T16:47:38: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-19T16:47:38: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-19T16:47:38: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-19T16:47:38: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-19T16:47:38: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-19T16:47:38: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-19T16:47:38: PM2 log: Concurrent actions   : 2
+2018-11-19T16:47:38: PM2 log: SIGTERM timeout      : 1600
+2018-11-19T16:47:38: PM2 log: ===============================================================================
+2018-11-21T11:32:26: PM2 log: PM2 successfully stopped
+2018-11-21T11:32:42: PM2 log: ===============================================================================
+2018-11-21T11:32:42: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-21T11:32:42: PM2 log: Time                 : Wed Nov 21 2018 11:32:42 GMT+0800 (CST)
+2018-11-21T11:32:42: PM2 log: PM2 version          : 3.2.2
+2018-11-21T11:32:42: PM2 log: Node.js version      : 9.11.2
+2018-11-21T11:32:42: PM2 log: Current arch         : arm
+2018-11-21T11:32:42: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-21T11:32:42: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-21T11:32:42: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-21T11:32:42: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-21T11:32:42: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-21T11:32:42: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-21T11:32:42: PM2 log: Concurrent actions   : 2
+2018-11-21T11:32:42: PM2 log: SIGTERM timeout      : 1600
+2018-11-21T11:32:42: PM2 log: ===============================================================================
+2018-11-22T15:59:53: PM2 log: ===============================================================================
+2018-11-22T15:59:53: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-22T15:59:53: PM2 log: Time                 : Thu Nov 22 2018 15:59:53 GMT+0800 (CST)
+2018-11-22T15:59:53: PM2 log: PM2 version          : 3.2.2
+2018-11-22T15:59:53: PM2 log: Node.js version      : 9.11.2
+2018-11-22T15:59:53: PM2 log: Current arch         : arm
+2018-11-22T15:59:53: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-22T15:59:53: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-22T15:59:53: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-22T15:59:53: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-22T15:59:53: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-22T15:59:53: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-22T15:59:53: PM2 log: Concurrent actions   : 2
+2018-11-22T15:59:53: PM2 log: SIGTERM timeout      : 1600
+2018-11-22T15:59:53: PM2 log: ===============================================================================
+2018-11-22T17:17:15: PM2 log: ===============================================================================
+2018-11-22T17:17:15: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-22T17:17:15: PM2 log: Time                 : Thu Nov 22 2018 17:17:15 GMT+0800 (CST)
+2018-11-22T17:17:15: PM2 log: PM2 version          : 3.2.2
+2018-11-22T17:17:15: PM2 log: Node.js version      : 9.11.2
+2018-11-22T17:17:15: PM2 log: Current arch         : arm
+2018-11-22T17:17:15: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-22T17:17:15: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-22T17:17:15: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-22T17:17:15: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-22T17:17:15: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-22T17:17:15: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-22T17:17:15: PM2 log: Concurrent actions   : 2
+2018-11-22T17:17:15: PM2 log: SIGTERM timeout      : 1600
+2018-11-22T17:17:15: PM2 log: ===============================================================================
+2018-11-22T20:47:03: PM2 log: PM2 successfully stopped
+2018-11-22T20:47:21: PM2 log: ===============================================================================
+2018-11-22T20:47:21: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-22T20:47:21: PM2 log: Time                 : Thu Nov 22 2018 20:47:21 GMT+0800 (CST)
+2018-11-22T20:47:21: PM2 log: PM2 version          : 3.2.2
+2018-11-22T20:47:21: PM2 log: Node.js version      : 9.11.2
+2018-11-22T20:47:21: PM2 log: Current arch         : arm
+2018-11-22T20:47:21: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-22T20:47:21: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-22T20:47:21: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-22T20:47:21: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-22T20:47:21: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-22T20:47:21: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-22T20:47:21: PM2 log: Concurrent actions   : 2
+2018-11-22T20:47:21: PM2 log: SIGTERM timeout      : 1600
+2018-11-22T20:47:21: PM2 log: ===============================================================================
+2018-11-22T21:01:59: PM2 log: PM2 successfully stopped
+2018-11-22T21:02:16: PM2 log: ===============================================================================
+2018-11-22T21:02:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-22T21:02:16: PM2 log: Time                 : Thu Nov 22 2018 21:02:16 GMT+0800 (CST)
+2018-11-22T21:02:16: PM2 log: PM2 version          : 3.2.2
+2018-11-22T21:02:16: PM2 log: Node.js version      : 9.11.2
+2018-11-22T21:02:16: PM2 log: Current arch         : arm
+2018-11-22T21:02:16: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-22T21:02:16: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-22T21:02:16: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-22T21:02:16: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-22T21:02:16: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-22T21:02:16: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-22T21:02:16: PM2 log: Concurrent actions   : 2
+2018-11-22T21:02:16: PM2 log: SIGTERM timeout      : 1600
+2018-11-22T21:02:16: PM2 log: ===============================================================================
+2018-11-27T11:17:16: PM2 log: ===============================================================================
+2018-11-27T11:17:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-27T11:17:16: PM2 log: Time                 : Tue Nov 27 2018 11:17:16 GMT+0800 (CST)
+2018-11-27T11:17:16: PM2 log: PM2 version          : 3.2.2
+2018-11-27T11:17:16: PM2 log: Node.js version      : 9.11.2
+2018-11-27T11:17:16: PM2 log: Current arch         : arm
+2018-11-27T11:17:16: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-27T11:17:16: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-27T11:17:16: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-27T11:17:16: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-27T11:17:16: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-27T11:17:16: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-27T11:17:16: PM2 log: Concurrent actions   : 2
+2018-11-27T11:17:16: PM2 log: SIGTERM timeout      : 1600
+2018-11-27T11:17:16: PM2 log: ===============================================================================
+2018-11-27T14:01:59: PM2 log: ===============================================================================
+2018-11-27T14:01:59: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-27T14:01:59: PM2 log: Time                 : Tue Nov 27 2018 14:01:59 GMT+0800 (CST)
+2018-11-27T14:01:59: PM2 log: PM2 version          : 3.2.2
+2018-11-27T14:01:59: PM2 log: Node.js version      : 9.11.2
+2018-11-27T14:01:59: PM2 log: Current arch         : arm
+2018-11-27T14:01:59: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-27T14:01:59: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-27T14:01:59: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-27T14:01:59: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-27T14:01:59: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-27T14:01:59: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-27T14:01:59: PM2 log: Concurrent actions   : 2
+2018-11-27T14:01:59: PM2 log: SIGTERM timeout      : 1600
+2018-11-27T14:01:59: PM2 log: ===============================================================================
+2018-11-27T16:17:28: PM2 log: ===============================================================================
+2018-11-27T16:17:28: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-27T16:17:28: PM2 log: Time                 : Tue Nov 27 2018 16:17:28 GMT+0800 (CST)
+2018-11-27T16:17:28: PM2 log: PM2 version          : 3.2.2
+2018-11-27T16:17:28: PM2 log: Node.js version      : 9.11.2
+2018-11-27T16:17:28: PM2 log: Current arch         : arm
+2018-11-27T16:17:28: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-27T16:17:28: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-27T16:17:28: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-27T16:17:28: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-27T16:17:28: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-27T16:17:28: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-27T16:17:28: PM2 log: Concurrent actions   : 2
+2018-11-27T16:17:28: PM2 log: SIGTERM timeout      : 1600
+2018-11-27T16:17:28: PM2 log: ===============================================================================
+2018-11-27T16:33:13: PM2 log: ===============================================================================
+2018-11-27T16:33:13: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-27T16:33:13: PM2 log: Time                 : Tue Nov 27 2018 16:33:13 GMT+0800 (CST)
+2018-11-27T16:33:13: PM2 log: PM2 version          : 3.2.2
+2018-11-27T16:33:13: PM2 log: Node.js version      : 9.11.2
+2018-11-27T16:33:13: PM2 log: Current arch         : arm
+2018-11-27T16:33:13: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-27T16:33:13: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-27T16:33:13: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-27T16:33:13: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-27T16:33:13: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-27T16:33:13: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-27T16:33:13: PM2 log: Concurrent actions   : 2
+2018-11-27T16:33:13: PM2 log: SIGTERM timeout      : 1600
+2018-11-27T16:33:13: PM2 log: ===============================================================================
+2018-11-29T15:17:17: PM2 log: ===============================================================================
+2018-11-29T15:17:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-29T15:17:17: PM2 log: Time                 : Thu Nov 29 2018 15:17:17 GMT+0800 (CST)
+2018-11-29T15:17:17: PM2 log: PM2 version          : 3.2.2
+2018-11-29T15:17:17: PM2 log: Node.js version      : 9.11.2
+2018-11-29T15:17:17: PM2 log: Current arch         : arm
+2018-11-29T15:17:17: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-29T15:17:17: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-29T15:17:17: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-29T15:17:17: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-29T15:17:17: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-29T15:17:17: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-29T15:17:17: PM2 log: Concurrent actions   : 2
+2018-11-29T15:17:17: PM2 log: SIGTERM timeout      : 1600
+2018-11-29T15:17:17: PM2 log: ===============================================================================
+2018-11-29T15:17:39: PM2 log: ===============================================================================
+2018-11-29T15:17:39: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-29T15:17:39: PM2 log: Time                 : Thu Nov 29 2018 15:17:39 GMT+0800 (CST)
+2018-11-29T15:17:39: PM2 log: PM2 version          : 3.2.2
+2018-11-29T15:17:39: PM2 log: Node.js version      : 9.11.2
+2018-11-29T15:17:39: PM2 log: Current arch         : arm
+2018-11-29T15:17:39: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-29T15:17:39: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-29T15:17:39: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-29T15:17:39: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-29T15:17:39: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-29T15:17:39: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-29T15:17:39: PM2 log: Concurrent actions   : 2
+2018-11-29T15:17:39: PM2 log: SIGTERM timeout      : 1600
+2018-11-29T15:17:39: PM2 log: ===============================================================================
+2018-11-29T15:17:40: PM2 log: ===============================================================================
+2018-11-29T15:17:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-29T15:17:40: PM2 log: Time                 : Thu Nov 29 2018 15:17:40 GMT+0800 (CST)
+2018-11-29T15:17:40: PM2 log: PM2 version          : 3.2.2
+2018-11-29T15:17:40: PM2 log: Node.js version      : 9.11.2
+2018-11-29T15:17:40: PM2 log: Current arch         : arm
+2018-11-29T15:17:40: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-29T15:17:40: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-29T15:17:40: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-29T15:17:40: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-29T15:17:40: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-29T15:17:40: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-29T15:17:40: PM2 log: Concurrent actions   : 2
+2018-11-29T15:17:40: PM2 log: SIGTERM timeout      : 1600
+2018-11-29T15:17:40: PM2 log: ===============================================================================
+2018-11-29T15:17:17: PM2 log: ===============================================================================
+2018-11-29T15:17:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-11-29T15:17:17: PM2 log: Time                 : Thu Nov 29 2018 15:17:17 GMT+0800 (CST)
+2018-11-29T15:17:17: PM2 log: PM2 version          : 3.2.2
+2018-11-29T15:17:17: PM2 log: Node.js version      : 9.11.2
+2018-11-29T15:17:17: PM2 log: Current arch         : arm
+2018-11-29T15:17:17: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-11-29T15:17:17: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-11-29T15:17:17: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-11-29T15:17:17: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-11-29T15:17:17: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-11-29T15:17:17: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-11-29T15:17:17: PM2 log: Concurrent actions   : 2
+2018-11-29T15:17:17: PM2 log: SIGTERM timeout      : 1600
+2018-11-29T15:17:17: PM2 log: ===============================================================================
+2018-12-09T13:17:16: PM2 log: ===============================================================================
+2018-12-09T13:17:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-09T13:17:16: PM2 log: Time                 : Sun Dec 09 2018 13:17:16 GMT+0800 (CST)
+2018-12-09T13:17:16: PM2 log: PM2 version          : 3.2.2
+2018-12-09T13:17:16: PM2 log: Node.js version      : 9.11.2
+2018-12-09T13:17:16: PM2 log: Current arch         : arm
+2018-12-09T13:17:16: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-09T13:17:16: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-09T13:17:16: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-09T13:17:16: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-09T13:17:16: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-09T13:17:16: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-09T13:17:16: PM2 log: Concurrent actions   : 2
+2018-12-09T13:17:16: PM2 log: SIGTERM timeout      : 1600
+2018-12-09T13:17:16: PM2 log: ===============================================================================
+2018-12-11T14:35:22: PM2 log: ===============================================================================
+2018-12-11T14:35:22: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-11T14:35:22: PM2 log: Time                 : Tue Dec 11 2018 14:35:22 GMT+0800 (CST)
+2018-12-11T14:35:22: PM2 log: PM2 version          : 3.2.2
+2018-12-11T14:35:22: PM2 log: Node.js version      : 9.11.2
+2018-12-11T14:35:22: PM2 log: Current arch         : arm
+2018-12-11T14:35:22: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-11T14:35:22: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-11T14:35:22: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-11T14:35:22: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-11T14:35:22: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-11T14:35:22: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-11T14:35:22: PM2 log: Concurrent actions   : 2
+2018-12-11T14:35:22: PM2 log: SIGTERM timeout      : 1600
+2018-12-11T14:35:22: PM2 log: ===============================================================================
+2018-12-11T17:17:16: PM2 log: ===============================================================================
+2018-12-11T17:17:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-11T17:17:16: PM2 log: Time                 : Tue Dec 11 2018 17:17:16 GMT+0800 (CST)
+2018-12-11T17:17:16: PM2 log: PM2 version          : 3.2.2
+2018-12-11T17:17:16: PM2 log: Node.js version      : 9.11.2
+2018-12-11T17:17:16: PM2 log: Current arch         : arm
+2018-12-11T17:17:16: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-11T17:17:16: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-11T17:17:16: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-11T17:17:16: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-11T17:17:16: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-11T17:17:16: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-11T17:17:16: PM2 log: Concurrent actions   : 2
+2018-12-11T17:17:16: PM2 log: SIGTERM timeout      : 1600
+2018-12-11T17:17:16: PM2 log: ===============================================================================
+2018-12-11T23:17:20: PM2 log: ===============================================================================
+2018-12-11T23:17:20: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-11T23:17:20: PM2 log: Time                 : Tue Dec 11 2018 23:17:20 GMT+0800 (CST)
+2018-12-11T23:17:20: PM2 log: PM2 version          : 3.2.2
+2018-12-11T23:17:20: PM2 log: Node.js version      : 9.11.2
+2018-12-11T23:17:20: PM2 log: Current arch         : arm
+2018-12-11T23:17:20: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-11T23:17:20: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-11T23:17:20: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-11T23:17:20: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-11T23:17:20: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-11T23:17:20: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-11T23:17:20: PM2 log: Concurrent actions   : 2
+2018-12-11T23:17:20: PM2 log: SIGTERM timeout      : 1600
+2018-12-11T23:17:20: PM2 log: ===============================================================================
+2018-12-11T23:19:37: PM2 log: PM2 successfully stopped
+2018-12-11T23:19:55: PM2 log: ===============================================================================
+2018-12-11T23:19:55: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-11T23:19:55: PM2 log: Time                 : Tue Dec 11 2018 23:19:55 GMT+0800 (CST)
+2018-12-11T23:19:55: PM2 log: PM2 version          : 3.2.2
+2018-12-11T23:19:55: PM2 log: Node.js version      : 9.11.2
+2018-12-11T23:19:55: PM2 log: Current arch         : arm
+2018-12-11T23:19:55: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-11T23:19:55: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-11T23:19:55: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-11T23:19:55: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-11T23:19:55: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-11T23:19:55: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-11T23:19:55: PM2 log: Concurrent actions   : 2
+2018-12-11T23:19:55: PM2 log: SIGTERM timeout      : 1600
+2018-12-11T23:19:55: PM2 log: ===============================================================================
+2018-12-13T16:17:20: PM2 log: ===============================================================================
+2018-12-13T16:17:20: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-13T16:17:20: PM2 log: Time                 : Thu Dec 13 2018 16:17:20 GMT+0800 (CST)
+2018-12-13T16:17:20: PM2 log: PM2 version          : 3.2.2
+2018-12-13T16:17:20: PM2 log: Node.js version      : 9.11.2
+2018-12-13T16:17:20: PM2 log: Current arch         : arm
+2018-12-13T16:17:20: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-13T16:17:20: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-13T16:17:20: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-13T16:17:20: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-13T16:17:20: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-13T16:17:20: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-13T16:17:20: PM2 log: Concurrent actions   : 2
+2018-12-13T16:17:20: PM2 log: SIGTERM timeout      : 1600
+2018-12-13T16:17:20: PM2 log: ===============================================================================
+2018-12-13T16:17:16: PM2 log: ===============================================================================
+2018-12-13T16:17:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-13T16:17:16: PM2 log: Time                 : Thu Dec 13 2018 16:17:16 GMT+0800 (CST)
+2018-12-13T16:17:16: PM2 log: PM2 version          : 3.2.2
+2018-12-13T16:17:16: PM2 log: Node.js version      : 9.11.2
+2018-12-13T16:17:16: PM2 log: Current arch         : arm
+2018-12-13T16:17:16: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-13T16:17:16: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-13T16:17:16: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-13T16:17:16: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-13T16:17:16: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-13T16:17:16: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-13T16:17:16: PM2 log: Concurrent actions   : 2
+2018-12-13T16:17:16: PM2 log: SIGTERM timeout      : 1600
+2018-12-13T16:17:16: PM2 log: ===============================================================================
+2018-12-14T09:58:32: PM2 log: PM2 successfully stopped
+2018-12-14T09:58:48: PM2 log: ===============================================================================
+2018-12-14T09:58:48: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-14T09:58:48: PM2 log: Time                 : Fri Dec 14 2018 09:58:48 GMT+0800 (CST)
+2018-12-14T09:58:48: PM2 log: PM2 version          : 3.2.2
+2018-12-14T09:58:48: PM2 log: Node.js version      : 9.11.2
+2018-12-14T09:58:48: PM2 log: Current arch         : arm
+2018-12-14T09:58:48: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-14T09:58:48: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-14T09:58:48: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-14T09:58:48: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-14T09:58:48: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-14T09:58:48: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-14T09:58:48: PM2 log: Concurrent actions   : 2
+2018-12-14T09:58:48: PM2 log: SIGTERM timeout      : 1600
+2018-12-14T09:58:48: PM2 log: ===============================================================================
+2018-12-27T08:17:16: PM2 log: ===============================================================================
+2018-12-27T08:17:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-27T08:17:16: PM2 log: Time                 : Thu Dec 27 2018 08:17:16 GMT+0800 (CST)
+2018-12-27T08:17:16: PM2 log: PM2 version          : 3.2.2
+2018-12-27T08:17:16: PM2 log: Node.js version      : 9.11.2
+2018-12-27T08:17:16: PM2 log: Current arch         : arm
+2018-12-27T08:17:16: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-27T08:17:16: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-27T08:17:16: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-27T08:17:16: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-27T08:17:16: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-27T08:17:16: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-27T08:17:16: PM2 log: Concurrent actions   : 2
+2018-12-27T08:17:16: PM2 log: SIGTERM timeout      : 1600
+2018-12-27T08:17:16: PM2 log: ===============================================================================
+2018-12-27T08:17:21: PM2 log: ===============================================================================
+2018-12-27T08:17:21: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-27T08:17:21: PM2 log: Time                 : Thu Dec 27 2018 08:17:21 GMT+0800 (CST)
+2018-12-27T08:17:21: PM2 log: PM2 version          : 3.2.2
+2018-12-27T08:17:21: PM2 log: Node.js version      : 9.11.2
+2018-12-27T08:17:21: PM2 log: Current arch         : arm
+2018-12-27T08:17:21: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-27T08:17:21: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-27T08:17:21: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-27T08:17:21: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-27T08:17:21: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-27T08:17:21: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-27T08:17:21: PM2 log: Concurrent actions   : 2
+2018-12-27T08:17:21: PM2 log: SIGTERM timeout      : 1600
+2018-12-27T08:17:21: PM2 log: ===============================================================================
+2018-12-27T15:33:06: PM2 log: ===============================================================================
+2018-12-27T15:33:06: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-27T15:33:06: PM2 log: Time                 : Thu Dec 27 2018 15:33:06 GMT+0800 (CST)
+2018-12-27T15:33:06: PM2 log: PM2 version          : 3.2.2
+2018-12-27T15:33:06: PM2 log: Node.js version      : 9.11.2
+2018-12-27T15:33:06: PM2 log: Current arch         : arm
+2018-12-27T15:33:06: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-27T15:33:06: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-27T15:33:06: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-27T15:33:06: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-27T15:33:06: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-27T15:33:06: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-27T15:33:06: PM2 log: Concurrent actions   : 2
+2018-12-27T15:33:06: PM2 log: SIGTERM timeout      : 1600
+2018-12-27T15:33:06: PM2 log: ===============================================================================
+2018-12-28T01:51:37: PM2 log: ===============================================================================
+2018-12-28T01:51:37: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2018-12-28T01:51:37: PM2 log: Time                 : Fri Dec 28 2018 01:51:37 GMT+0800 (CST)
+2018-12-28T01:51:37: PM2 log: PM2 version          : 3.2.4
+2018-12-28T01:51:37: PM2 log: Node.js version      : 9.11.2
+2018-12-28T01:51:37: PM2 log: Current arch         : arm
+2018-12-28T01:51:37: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2018-12-28T01:51:37: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2018-12-28T01:51:37: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2018-12-28T01:51:37: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2018-12-28T01:51:37: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2018-12-28T01:51:37: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2018-12-28T01:51:37: PM2 log: Concurrent actions   : 2
+2018-12-28T01:51:37: PM2 log: SIGTERM timeout      : 1600
+2018-12-28T01:51:37: PM2 log: ===============================================================================
+2019-01-17T10:18:01: PM2 log: ===============================================================================
+2019-01-17T10:18:01: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-01-17T10:18:01: PM2 log: Time                 : Thu Jan 17 2019 10:18:01 GMT+0800 (CST)
+2019-01-17T10:18:01: PM2 log: PM2 version          : 3.2.4
+2019-01-17T10:18:01: PM2 log: Node.js version      : 9.11.2
+2019-01-17T10:18:01: PM2 log: Current arch         : arm
+2019-01-17T10:18:01: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-01-17T10:18:01: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-01-17T10:18:01: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-01-17T10:18:01: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-01-17T10:18:01: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-01-17T10:18:01: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-01-17T10:18:01: PM2 log: Concurrent actions   : 2
+2019-01-17T10:18:01: PM2 log: SIGTERM timeout      : 1600
+2019-01-17T10:18:01: PM2 log: ===============================================================================
+2019-01-18T19:17:21: PM2 log: ===============================================================================
+2019-01-18T19:17:21: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-01-18T19:17:21: PM2 log: Time                 : Fri Jan 18 2019 19:17:21 GMT+0800 (CST)
+2019-01-18T19:17:21: PM2 log: PM2 version          : 3.2.4
+2019-01-18T19:17:21: PM2 log: Node.js version      : 9.11.2
+2019-01-18T19:17:21: PM2 log: Current arch         : arm
+2019-01-18T19:17:21: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-01-18T19:17:21: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-01-18T19:17:21: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-01-18T19:17:21: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-01-18T19:17:21: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-01-18T19:17:21: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-01-18T19:17:21: PM2 log: Concurrent actions   : 2
+2019-01-18T19:17:21: PM2 log: SIGTERM timeout      : 1600
+2019-01-18T19:17:21: PM2 log: ===============================================================================
+2019-02-21T15:17:23: PM2 log: ===============================================================================
+2019-02-21T15:17:23: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-02-21T15:17:23: PM2 log: Time                 : Thu Feb 21 2019 15:17:23 GMT+0800 (CST)
+2019-02-21T15:17:23: PM2 log: PM2 version          : 3.2.4
+2019-02-21T15:17:23: PM2 log: Node.js version      : 9.11.2
+2019-02-21T15:17:23: PM2 log: Current arch         : arm
+2019-02-21T15:17:23: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-02-21T15:17:23: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-02-21T15:17:23: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-02-21T15:17:23: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-02-21T15:17:23: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-02-21T15:17:23: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-02-21T15:17:23: PM2 log: Concurrent actions   : 2
+2019-02-21T15:17:23: PM2 log: SIGTERM timeout      : 1600
+2019-02-21T15:17:23: PM2 log: ===============================================================================
+2019-02-26T14:25:41: PM2 log: ===============================================================================
+2019-02-26T14:25:41: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-02-26T14:25:41: PM2 log: Time                 : Tue Feb 26 2019 14:25:41 GMT+0800 (CST)
+2019-02-26T14:25:41: PM2 log: PM2 version          : 3.2.4
+2019-02-26T14:25:41: PM2 log: Node.js version      : 9.11.2
+2019-02-26T14:25:41: PM2 log: Current arch         : arm
+2019-02-26T14:25:41: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-02-26T14:25:41: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-02-26T14:25:41: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-02-26T14:25:41: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-02-26T14:25:41: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-02-26T14:25:41: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-02-26T14:25:41: PM2 log: Concurrent actions   : 2
+2019-02-26T14:25:41: PM2 log: SIGTERM timeout      : 1600
+2019-02-26T14:25:41: PM2 log: ===============================================================================
+2019-02-26T14:29:20: PM2 log: ===============================================================================
+2019-02-26T14:29:20: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-02-26T14:29:20: PM2 log: Time                 : Tue Feb 26 2019 14:29:20 GMT+0800 (CST)
+2019-02-26T14:29:20: PM2 log: PM2 version          : 3.2.4
+2019-02-26T14:29:20: PM2 log: Node.js version      : 9.11.2
+2019-02-26T14:29:20: PM2 log: Current arch         : arm
+2019-02-26T14:29:20: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-02-26T14:29:20: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-02-26T14:29:20: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-02-26T14:29:20: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-02-26T14:29:20: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-02-26T14:29:20: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-02-26T14:29:20: PM2 log: Concurrent actions   : 2
+2019-02-26T14:29:20: PM2 log: SIGTERM timeout      : 1600
+2019-02-26T14:29:20: PM2 log: ===============================================================================
+2019-02-26T15:17:17: PM2 log: ===============================================================================
+2019-02-26T15:17:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-02-26T15:17:17: PM2 log: Time                 : Tue Feb 26 2019 15:17:17 GMT+0800 (CST)
+2019-02-26T15:17:17: PM2 log: PM2 version          : 3.2.4
+2019-02-26T15:17:17: PM2 log: Node.js version      : 9.11.2
+2019-02-26T15:17:17: PM2 log: Current arch         : arm
+2019-02-26T15:17:17: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-02-26T15:17:17: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-02-26T15:17:17: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-02-26T15:17:17: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-02-26T15:17:17: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-02-26T15:17:17: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-02-26T15:17:17: PM2 log: Concurrent actions   : 2
+2019-02-26T15:17:17: PM2 log: SIGTERM timeout      : 1600
+2019-02-26T15:17:17: PM2 log: ===============================================================================
+2019-02-26T16:47:02: PM2 log: PM2 successfully stopped
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        2019-02-26T16:47:58: PM2 log: ===============================================================================
+2019-02-26T16:47:58: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-02-26T16:47:58: PM2 log: Time                 : Tue Feb 26 2019 16:47:58 GMT+0800 (CST)
+2019-02-26T16:47:58: PM2 log: PM2 version          : 3.2.4
+2019-02-26T16:47:58: PM2 log: Node.js version      : 9.11.2
+2019-02-26T16:47:58: PM2 log: Current arch         : arm
+2019-02-26T16:47:58: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-02-26T16:47:58: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-02-26T16:47:58: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-02-26T16:47:58: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-02-26T16:47:58: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-02-26T16:47:58: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-02-26T16:47:58: PM2 log: Concurrent actions   : 2
+2019-02-26T16:47:58: PM2 log: SIGTERM timeout      : 1600
+2019-02-26T16:47:58: PM2 log: ===============================================================================
+2019-02-26T17:17:17: PM2 log: ===============================================================================
+2019-02-26T17:17:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-02-26T17:17:17: PM2 log: Time                 : Tue Feb 26 2019 17:17:17 GMT+0800 (CST)
+2019-02-26T17:17:17: PM2 log: PM2 version          : 3.2.4
+2019-02-26T17:17:17: PM2 log: Node.js version      : 9.11.2
+2019-02-26T17:17:17: PM2 log: Current arch         : arm
+2019-02-26T17:17:17: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-02-26T17:17:17: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-02-26T17:17:17: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-02-26T17:17:17: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-02-26T17:17:17: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-02-26T17:17:17: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-02-26T17:17:17: PM2 log: Concurrent actions   : 2
+2019-02-26T17:17:17: PM2 log: SIGTERM timeout      : 1600
+2019-02-26T17:17:17: PM2 log: ===============================================================================
+2019-03-05T16:09:41: PM2 log: ===============================================================================
+2019-03-05T16:09:41: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-05T16:09:41: PM2 log: Time                 : Tue Mar 05 2019 16:09:41 GMT+0800 (CST)
+2019-03-05T16:09:41: PM2 log: PM2 version          : 3.2.4
+2019-03-05T16:09:41: PM2 log: Node.js version      : 9.11.2
+2019-03-05T16:09:41: PM2 log: Current arch         : arm
+2019-03-05T16:09:41: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-05T16:09:41: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-05T16:09:41: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-05T16:09:41: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-05T16:09:41: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-05T16:09:41: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-05T16:09:41: PM2 log: Concurrent actions   : 2
+2019-03-05T16:09:41: PM2 log: SIGTERM timeout      : 1600
+2019-03-05T16:09:41: PM2 log: ===============================================================================
+2019-03-05T18:17:17: PM2 log: ===============================================================================
+2019-03-05T18:17:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-05T18:17:17: PM2 log: Time                 : Tue Mar 05 2019 18:17:17 GMT+0800 (CST)
+2019-03-05T18:17:17: PM2 log: PM2 version          : 3.2.4
+2019-03-05T18:17:17: PM2 log: Node.js version      : 9.11.2
+2019-03-05T18:17:17: PM2 log: Current arch         : arm
+2019-03-05T18:17:17: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-05T18:17:17: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-05T18:17:17: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-05T18:17:17: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-05T18:17:17: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-05T18:17:17: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-05T18:17:17: PM2 log: Concurrent actions   : 2
+2019-03-05T18:17:17: PM2 log: SIGTERM timeout      : 1600
+2019-03-05T18:17:17: PM2 log: ===============================================================================
+2019-03-06T20:17:16: PM2 log: ===============================================================================
+2019-03-06T20:17:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-06T20:17:16: PM2 log: Time                 : Wed Mar 06 2019 20:17:16 GMT+0800 (CST)
+2019-03-06T20:17:16: PM2 log: PM2 version          : 3.2.4
+2019-03-06T20:17:16: PM2 log: Node.js version      : 9.11.2
+2019-03-06T20:17:16: PM2 log: Current arch         : arm
+2019-03-06T20:17:16: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-06T20:17:16: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-06T20:17:16: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-06T20:17:16: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-06T20:17:16: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-06T20:17:16: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-06T20:17:16: PM2 log: Concurrent actions   : 2
+2019-03-06T20:17:16: PM2 log: SIGTERM timeout      : 1600
+2019-03-06T20:17:16: PM2 log: ===============================================================================
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        2019-03-06T21:17:16: PM2 log: ===============================================================================
+2019-03-06T21:17:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-06T21:17:16: PM2 log: Time                 : Wed Mar 06 2019 21:17:16 GMT+0800 (CST)
+2019-03-06T21:17:16: PM2 log: PM2 version          : 3.2.4
+2019-03-06T21:17:16: PM2 log: Node.js version      : 9.11.2
+2019-03-06T21:17:16: PM2 log: Current arch         : arm
+2019-03-06T21:17:16: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-06T21:17:16: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-06T21:17:16: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-06T21:17:16: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-06T21:17:16: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-06T21:17:16: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-06T21:17:16: PM2 log: Concurrent actions   : 2
+2019-03-06T21:17:16: PM2 log: SIGTERM timeout      : 1600
+2019-03-06T21:17:16: PM2 log: ===============================================================================
+2019-03-08T21:32:17: PM2 log: ===============================================================================
+2019-03-08T21:32:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-08T21:32:17: PM2 log: Time                 : Fri Mar 08 2019 21:32:17 GMT+0800 (CST)
+2019-03-08T21:32:17: PM2 log: PM2 version          : 3.2.4
+2019-03-08T21:32:17: PM2 log: Node.js version      : 9.11.2
+2019-03-08T21:32:17: PM2 log: Current arch         : arm
+2019-03-08T21:32:17: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-08T21:32:17: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-08T21:32:17: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-08T21:32:17: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-08T21:32:17: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-08T21:32:17: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-08T21:32:17: PM2 log: Concurrent actions   : 2
+2019-03-08T21:32:17: PM2 log: SIGTERM timeout      : 1600
+2019-03-08T21:32:17: PM2 log: ===============================================================================
+2019-03-09T13:17:21: PM2 log: ===============================================================================
+2019-03-09T13:17:21: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-09T13:17:21: PM2 log: Time                 : Sat Mar 09 2019 13:17:21 GMT+0800 (CST)
+2019-03-09T13:17:21: PM2 log: PM2 version          : 3.2.4
+2019-03-09T13:17:21: PM2 log: Node.js version      : 9.11.2
+2019-03-09T13:17:21: PM2 log: Current arch         : arm
+2019-03-09T13:17:21: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-09T13:17:21: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-09T13:17:21: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-09T13:17:21: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-09T13:17:21: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-09T13:17:21: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-09T13:17:21: PM2 log: Concurrent actions   : 2
+2019-03-09T13:17:21: PM2 log: SIGTERM timeout      : 1600
+2019-03-09T13:17:21: PM2 log: ===============================================================================
+2019-03-14T13:29:29: PM2 log: PM2 successfully stopped
+2019-03-14T13:29:52: PM2 log: ===============================================================================
+2019-03-14T13:29:52: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-14T13:29:52: PM2 log: Time                 : Thu Mar 14 2019 13:29:52 GMT+0800 (CST)
+2019-03-14T13:29:52: PM2 log: PM2 version          : 3.2.4
+2019-03-14T13:29:52: PM2 log: Node.js version      : 9.11.2
+2019-03-14T13:29:52: PM2 log: Current arch         : arm
+2019-03-14T13:29:52: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-14T13:29:52: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-14T13:29:52: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-14T13:29:52: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-14T13:29:52: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-14T13:29:52: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-14T13:29:52: PM2 log: Concurrent actions   : 2
+2019-03-14T13:29:52: PM2 log: SIGTERM timeout      : 1600
+2019-03-14T13:29:52: PM2 log: ===============================================================================
+2019-03-14T14:17:16: PM2 log: ===============================================================================
+2019-03-14T14:17:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-14T14:17:16: PM2 log: Time                 : Thu Mar 14 2019 14:17:16 GMT+0800 (CST)
+2019-03-14T14:17:17: PM2 log: PM2 version          : 3.2.4
+2019-03-14T14:17:17: PM2 log: Node.js version      : 9.11.2
+2019-03-14T14:17:17: PM2 log: Current arch         : arm
+2019-03-14T14:17:17: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-14T14:17:17: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-14T14:17:17: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-14T14:17:17: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-14T14:17:17: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-14T14:17:17: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-14T14:17:17: PM2 log: Concurrent actions   : 2
+2019-03-14T14:17:17: PM2 log: SIGTERM timeout      : 1600
+2019-03-14T14:17:17: PM2 log: ===============================================================================
+2019-03-14T18:17:20: PM2 log: ===============================================================================
+2019-03-14T18:17:20: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-14T18:17:20: PM2 log: Time                 : Thu Mar 14 2019 18:17:20 GMT+0800 (CST)
+2019-03-14T18:17:20: PM2 log: PM2 version          : 3.2.4
+2019-03-14T18:17:20: PM2 log: Node.js version      : 9.11.2
+2019-03-14T18:17:20: PM2 log: Current arch         : arm
+2019-03-14T18:17:20: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-14T18:17:20: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-14T18:17:20: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-14T18:17:20: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-14T18:17:20: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-14T18:17:20: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-14T18:17:20: PM2 log: Concurrent actions   : 2
+2019-03-14T18:17:20: PM2 log: SIGTERM timeout      : 1600
+2019-03-14T18:17:20: PM2 log: ===============================================================================
+2019-03-14T23:39:53: PM2 log: ===============================================================================
+2019-03-14T23:39:53: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-14T23:39:53: PM2 log: Time                 : Thu Mar 14 2019 23:39:53 GMT+0800 (CST)
+2019-03-14T23:39:53: PM2 log: PM2 version          : 3.2.4
+2019-03-14T23:39:53: PM2 log: Node.js version      : 9.11.2
+2019-03-14T23:39:53: PM2 log: Current arch         : arm
+2019-03-14T23:39:53: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-14T23:39:53: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-14T23:39:53: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-14T23:39:53: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-14T23:39:53: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-14T23:39:53: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-14T23:39:53: PM2 log: Concurrent actions   : 2
+2019-03-14T23:39:53: PM2 log: SIGTERM timeout      : 1600
+2019-03-14T23:39:53: PM2 log: ===============================================================================
+2019-03-15T08:53:00: PM2 log: ===============================================================================
+2019-03-15T08:53:00: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-15T08:53:00: PM2 log: Time                 : Fri Mar 15 2019 08:53:00 GMT+0800 (CST)
+2019-03-15T08:53:00: PM2 log: PM2 version          : 3.2.4
+2019-03-15T08:53:00: PM2 log: Node.js version      : 9.11.2
+2019-03-15T08:53:00: PM2 log: Current arch         : arm
+2019-03-15T08:53:00: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-15T08:53:00: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-15T08:53:00: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-15T08:53:00: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-15T08:53:00: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-15T08:53:00: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-15T08:53:00: PM2 log: Concurrent actions   : 2
+2019-03-15T08:53:00: PM2 log: SIGTERM timeout      : 1600
+2019-03-15T08:53:00: PM2 log: ===============================================================================
+2019-03-15T12:56:31: PM2 log: ===============================================================================
+2019-03-15T12:56:31: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-15T12:56:31: PM2 log: Time                 : Fri Mar 15 2019 12:56:31 GMT+0800 (CST)
+2019-03-15T12:56:31: PM2 log: PM2 version          : 3.2.4
+2019-03-15T12:56:31: PM2 log: Node.js version      : 9.11.2
+2019-03-15T12:56:31: PM2 log: Current arch         : arm
+2019-03-15T12:56:31: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-15T12:56:31: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-15T12:56:31: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-15T12:56:31: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-15T12:56:31: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-15T12:56:31: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-15T12:56:31: PM2 log: Concurrent actions   : 2
+2019-03-15T12:56:31: PM2 log: SIGTERM timeout      : 1600
+2019-03-15T12:56:31: PM2 log: ===============================================================================
+2019-03-17T12:17:39: PM2 log: ===============================================================================
+2019-03-17T12:17:39: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-17T12:17:39: PM2 log: Time                 : Sun Mar 17 2019 12:17:39 GMT+0800 (CST)
+2019-03-17T12:17:39: PM2 log: PM2 version          : 3.2.4
+2019-03-17T12:17:39: PM2 log: Node.js version      : 9.11.2
+2019-03-17T12:17:39: PM2 log: Current arch         : arm
+2019-03-17T12:17:39: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-17T12:17:39: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-17T12:17:39: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-17T12:17:39: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-17T12:17:39: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-17T12:17:39: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-17T12:17:39: PM2 log: Concurrent actions   : 2
+2019-03-17T12:17:39: PM2 log: SIGTERM timeout      : 1600
+2019-03-17T12:17:39: PM2 log: ===============================================================================
+2019-03-17T12:17:41: PM2 log: ===============================================================================
+2019-03-17T12:17:41: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-17T12:17:41: PM2 log: Time                 : Sun Mar 17 2019 12:17:41 GMT+0800 (CST)
+2019-03-17T12:17:41: PM2 log: PM2 version          : 3.2.4
+2019-03-17T12:17:41: PM2 log: Node.js version      : 9.11.2
+2019-03-17T12:17:41: PM2 log: Current arch         : arm
+2019-03-17T12:17:41: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-17T12:17:41: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-17T12:17:41: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-17T12:17:41: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-17T12:17:41: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-17T12:17:41: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-17T12:17:41: PM2 log: Concurrent actions   : 2
+2019-03-17T12:17:41: PM2 log: SIGTERM timeout      : 1600
+2019-03-17T12:17:41: PM2 log: ===============================================================================
+2019-03-17T12:17:40: PM2 log: ===============================================================================
+2019-03-17T12:17:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-17T12:17:40: PM2 log: Time                 : Sun Mar 17 2019 12:17:40 GMT+0800 (CST)
+2019-03-17T12:17:40: PM2 log: PM2 version          : 3.2.4
+2019-03-17T12:17:40: PM2 log: Node.js version      : 9.11.2
+2019-03-17T12:17:40: PM2 log: Current arch         : arm
+2019-03-17T12:17:40: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-17T12:17:40: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-17T12:17:40: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-17T12:17:40: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-17T12:17:40: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-17T12:17:40: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-17T12:17:40: PM2 log: Concurrent actions   : 2
+2019-03-17T12:17:40: PM2 log: SIGTERM timeout      : 1600
+2019-03-17T12:17:40: PM2 log: ===============================================================================
+2019-03-17T12:17:43: PM2 log: ===============================================================================
+2019-03-17T12:17:43: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-17T12:17:43: PM2 log: Time                 : Sun Mar 17 2019 12:17:43 GMT+0800 (CST)
+2019-03-17T12:17:43: PM2 log: PM2 version          : 3.2.4
+2019-03-17T12:17:43: PM2 log: Node.js version      : 9.11.2
+2019-03-17T12:17:43: PM2 log: Current arch         : arm
+2019-03-17T12:17:43: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-17T12:17:43: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-17T12:17:43: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-17T12:17:43: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-17T12:17:43: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-17T12:17:43: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-17T12:17:43: PM2 log: Concurrent actions   : 2
+2019-03-17T12:17:43: PM2 log: SIGTERM timeout      : 1600
+2019-03-17T12:17:43: PM2 log: ===============================================================================
+2019-03-17T12:17:39: PM2 log: ===============================================================================
+2019-03-17T12:17:39: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-17T12:17:39: PM2 log: Time                 : Sun Mar 17 2019 12:17:39 GMT+0800 (CST)
+2019-03-17T12:17:39: PM2 log: PM2 version          : 3.2.4
+2019-03-17T12:17:39: PM2 log: Node.js version      : 9.11.2
+2019-03-17T12:17:39: PM2 log: Current arch         : arm
+2019-03-17T12:17:39: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-17T12:17:39: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-17T12:17:39: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-17T12:17:39: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-17T12:17:39: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-17T12:17:39: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-17T12:17:39: PM2 log: Concurrent actions   : 2
+2019-03-17T12:17:39: PM2 log: SIGTERM timeout      : 1600
+2019-03-17T12:17:39: PM2 log: ===============================================================================
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        2019-03-17T12:17:40: PM2 log: ===============================================================================
+2019-03-17T12:17:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-17T12:17:40: PM2 log: Time                 : Sun Mar 17 2019 12:17:40 GMT+0800 (CST)
+2019-03-17T12:17:40: PM2 log: PM2 version          : 3.2.4
+2019-03-17T12:17:40: PM2 log: Node.js version      : 9.11.2
+2019-03-17T12:17:40: PM2 log: Current arch         : arm
+2019-03-17T12:17:40: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-17T12:17:40: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-17T12:17:40: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-17T12:17:40: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-17T12:17:40: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-17T12:17:40: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-17T12:17:40: PM2 log: Concurrent actions   : 2
+2019-03-17T12:17:40: PM2 log: SIGTERM timeout      : 1600
+2019-03-17T12:17:40: PM2 log: ===============================================================================
+2019-03-17T12:20:25: PM2 log: PM2 successfully stopped
+2019-03-17T12:20:45: PM2 log: ===============================================================================
+2019-03-17T12:20:45: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-03-17T12:20:45: PM2 log: Time                 : Sun Mar 17 2019 12:20:45 GMT+0800 (CST)
+2019-03-17T12:20:45: PM2 log: PM2 version          : 3.2.4
+2019-03-17T12:20:45: PM2 log: Node.js version      : 9.11.2
+2019-03-17T12:20:45: PM2 log: Current arch         : arm
+2019-03-17T12:20:45: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-03-17T12:20:45: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-03-17T12:20:45: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-03-17T12:20:45: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-03-17T12:20:45: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-03-17T12:20:45: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-03-17T12:20:45: PM2 log: Concurrent actions   : 2
+2019-03-17T12:20:45: PM2 log: SIGTERM timeout      : 1600
+2019-03-17T12:20:45: PM2 log: ===============================================================================
+2019-08-06T20:09:44: PM2 log: ===============================================================================
+2019-08-06T20:09:44: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-08-06T20:09:44: PM2 log: Time                 : Tue Aug 06 2019 20:09:44 GMT+0800 (CST)
+2019-08-06T20:09:44: PM2 log: PM2 version          : 3.2.4
+2019-08-06T20:09:44: PM2 log: Node.js version      : 9.11.2
+2019-08-06T20:09:44: PM2 log: Current arch         : arm
+2019-08-06T20:09:44: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-08-06T20:09:44: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-08-06T20:09:44: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-08-06T20:09:44: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-08-06T20:09:44: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-08-06T20:09:44: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-08-06T20:09:44: PM2 log: Concurrent actions   : 2
+2019-08-06T20:09:44: PM2 log: SIGTERM timeout      : 1600
+2019-08-06T20:09:44: PM2 log: ===============================================================================
+2019-08-12T13:19:53: PM2 log: ===============================================================================
+2019-08-12T13:19:53: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-08-12T13:19:53: PM2 log: Time                 : Mon Aug 12 2019 13:19:53 GMT+0800 (CST)
+2019-08-12T13:19:53: PM2 log: PM2 version          : 3.2.4
+2019-08-12T13:19:53: PM2 log: Node.js version      : 9.11.2
+2019-08-12T13:19:53: PM2 log: Current arch         : arm
+2019-08-12T13:19:53: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-08-12T13:19:53: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-08-12T13:19:53: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-08-12T13:19:53: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-08-12T13:19:53: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-08-12T13:19:53: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-08-12T13:19:53: PM2 log: Concurrent actions   : 2
+2019-08-12T13:19:53: PM2 log: SIGTERM timeout      : 1600
+2019-08-12T13:19:53: PM2 log: ===============================================================================
+2019-08-14T15:30:18: PM2 log: ===============================================================================
+2019-08-14T15:30:18: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-08-14T15:30:18: PM2 log: Time                 : Wed Aug 14 2019 15:30:18 GMT+0800 (CST)
+2019-08-14T15:30:18: PM2 log: PM2 version          : 3.2.4
+2019-08-14T15:30:18: PM2 log: Node.js version      : 9.11.2
+2019-08-14T15:30:18: PM2 log: Current arch         : arm
+2019-08-14T15:30:18: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-08-14T15:30:18: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-08-14T15:30:18: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-08-14T15:30:18: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-08-14T15:30:18: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-08-14T15:30:18: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-08-14T15:30:18: PM2 log: Concurrent actions   : 2
+2019-08-14T15:30:18: PM2 log: SIGTERM timeout      : 1600
+2019-08-14T15:30:18: PM2 log: ===============================================================================
+2019-08-14T22:23:48: PM2 log: ===============================================================================
+2019-08-14T22:23:48: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-08-14T22:23:48: PM2 log: Time                 : Wed Aug 14 2019 22:23:48 GMT+0800 (CST)
+2019-08-14T22:23:48: PM2 log: PM2 version          : 3.2.4
+2019-08-14T22:23:48: PM2 log: Node.js version      : 9.11.2
+2019-08-14T22:23:48: PM2 log: Current arch         : arm
+2019-08-14T22:23:48: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-08-14T22:23:48: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-08-14T22:23:48: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-08-14T22:23:48: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-08-14T22:23:48: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-08-14T22:23:48: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-08-14T22:23:48: PM2 log: Concurrent actions   : 2
+2019-08-14T22:23:48: PM2 log: SIGTERM timeout      : 1600
+2019-08-14T22:23:48: PM2 log: ===============================================================================
+2019-08-20T15:44:28: PM2 log: ===============================================================================
+2019-08-20T15:44:28: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-08-20T15:44:28: PM2 log: Time                 : Tue Aug 20 2019 15:44:28 GMT+0800 (CST)
+2019-08-20T15:44:28: PM2 log: PM2 version          : 3.2.4
+2019-08-20T15:44:28: PM2 log: Node.js version      : 9.11.2
+2019-08-20T15:44:28: PM2 log: Current arch         : arm
+2019-08-20T15:44:28: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-08-20T15:44:28: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-08-20T15:44:28: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-08-20T15:44:28: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-08-20T15:44:28: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-08-20T15:44:28: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-08-20T15:44:28: PM2 log: Concurrent actions   : 2
+2019-08-20T15:44:28: PM2 log: SIGTERM timeout      : 1600
+2019-08-20T15:44:28: PM2 log: ===============================================================================
+2019-08-20T18:17:16: PM2 log: ===============================================================================
+2019-08-20T18:17:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-08-20T18:17:16: PM2 log: Time                 : Tue Aug 20 2019 18:17:16 GMT+0800 (CST)
+2019-08-20T18:17:16: PM2 log: PM2 version          : 3.2.4
+2019-08-20T18:17:16: PM2 log: Node.js version      : 9.11.2
+2019-08-20T18:17:16: PM2 log: Current arch         : arm
+2019-08-20T18:17:16: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-08-20T18:17:16: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-08-20T18:17:16: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-08-20T18:17:16: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-08-20T18:17:16: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-08-20T18:17:16: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-08-20T18:17:16: PM2 log: Concurrent actions   : 2
+2019-08-20T18:17:16: PM2 log: SIGTERM timeout      : 1600
+2019-08-20T18:17:16: PM2 log: ===============================================================================
+2019-08-20T19:05:16: PM2 log: ===============================================================================
+2019-08-20T19:05:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-08-20T19:05:16: PM2 log: Time                 : Tue Aug 20 2019 19:05:16 GMT+0800 (CST)
+2019-08-20T19:05:16: PM2 log: PM2 version          : 3.2.4
+2019-08-20T19:05:16: PM2 log: Node.js version      : 9.11.2
+2019-08-20T19:05:16: PM2 log: Current arch         : arm
+2019-08-20T19:05:16: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-08-20T19:05:16: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-08-20T19:05:16: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-08-20T19:05:16: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-08-20T19:05:16: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-08-20T19:05:16: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-08-20T19:05:16: PM2 log: Concurrent actions   : 2
+2019-08-20T19:05:16: PM2 log: SIGTERM timeout      : 1600
+2019-08-20T19:05:16: PM2 log: ===============================================================================
+2019-08-22T12:43:35: PM2 log: ===============================================================================
+2019-08-22T12:43:35: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-08-22T12:43:35: PM2 log: Time                 : Thu Aug 22 2019 12:43:35 GMT+0800 (CST)
+2019-08-22T12:43:35: PM2 log: PM2 version          : 3.2.4
+2019-08-22T12:43:35: PM2 log: Node.js version      : 9.11.2
+2019-08-22T12:43:35: PM2 log: Current arch         : arm
+2019-08-22T12:43:35: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-08-22T12:43:35: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-08-22T12:43:35: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-08-22T12:43:35: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-08-22T12:43:35: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-08-22T12:43:35: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-08-22T12:43:35: PM2 log: Concurrent actions   : 2
+2019-08-22T12:43:35: PM2 log: SIGTERM timeout      : 1600
+2019-08-22T12:43:35: PM2 log: ===============================================================================
+2019-11-25T11:07:40: PM2 log: ===============================================================================
+2019-11-25T11:07:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-11-25T11:07:40: PM2 log: Time                 : Mon Nov 25 2019 11:07:40 GMT+0800 (CST)
+2019-11-25T11:07:40: PM2 log: PM2 version          : 3.2.4
+2019-11-25T11:07:40: PM2 log: Node.js version      : 9.11.2
+2019-11-25T11:07:40: PM2 log: Current arch         : arm
+2019-11-25T11:07:40: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-11-25T11:07:40: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-11-25T11:07:40: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-11-25T11:07:40: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-11-25T11:07:40: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-11-25T11:07:40: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-11-25T11:07:40: PM2 log: Concurrent actions   : 2
+2019-11-25T11:07:40: PM2 log: SIGTERM timeout      : 1600
+2019-11-25T11:07:40: PM2 log: ===============================================================================
+2019-11-27T11:38:40: PM2 log: ===============================================================================
+2019-11-27T11:38:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-11-27T11:38:40: PM2 log: Time                 : Wed Nov 27 2019 11:38:40 GMT+0800 (CST)
+2019-11-27T11:38:40: PM2 log: PM2 version          : 3.2.4
+2019-11-27T11:38:40: PM2 log: Node.js version      : 9.11.2
+2019-11-27T11:38:40: PM2 log: Current arch         : arm
+2019-11-27T11:38:40: PM2 log: PM2 home             : /home/pi/probemon/.pm2
+2019-11-27T11:38:40: PM2 log: PM2 PID file         : /home/pi/probemon/.pm2/pm2.pid
+2019-11-27T11:38:40: PM2 log: RPC socket file      : /home/pi/probemon/.pm2/rpc.sock
+2019-11-27T11:38:40: PM2 log: BUS socket file      : /home/pi/probemon/.pm2/pub.sock
+2019-11-27T11:38:40: PM2 log: Application log path : /home/pi/probemon/.pm2/logs
+2019-11-27T11:38:40: PM2 log: Process dump file    : /home/pi/probemon/.pm2/dump.pm2
+2019-11-27T11:38:40: PM2 log: Concurrent actions   : 2
+2019-11-27T11:38:40: PM2 log: SIGTERM timeout      : 1600
+2019-11-27T11:38:40: PM2 log: ===============================================================================

@@ -6,10 +6,18 @@ import argparse
 import netaddr
 import sys
 import logging
+
+import requests
+import json
+
 from scapy.all import *
 from pprint import pprint
 from logging.handlers import RotatingFileHandler
 
+defaultencoding = 'utf-8'
+if sys.getdefaultencoding() != defaultencoding:
+        reload(sys)
+        sys.setdefaultencoding(defaultencoding)
 
 NAME = 'probemon'
 DESCRIPTION = "a command line tool for logging 802.11 probe request frames"
@@ -26,6 +34,9 @@ def build_packet_callback(time_fmt, logger, delimiter, mac_info, ssid, rssi):
 		# if neither match we are done here
 		if packet.type != 0 or packet.subtype != 0x04:
 			return
+                
+                if packet.info == 'dlink-RTESLab' or packet.addr2 == '7c:dd:90:e4:ed:2f':
+                        return
 
 		# list of output fields
 		fields = []
@@ -33,7 +44,7 @@ def build_packet_callback(time_fmt, logger, delimiter, mac_info, ssid, rssi):
 		# determine preferred time format 
 		log_time = str(int(time.time()))
 		if time_fmt == 'iso':
-			log_time = datetime.datetime.now().isoformat()
+			log_time = datetime.now().isoformat()
 
 		fields.append(log_time)
 
@@ -53,7 +64,7 @@ def build_packet_callback(time_fmt, logger, delimiter, mac_info, ssid, rssi):
 			fields.append(packet.info)
 			
 		if rssi:
-			rssi_val = -(256-ord(packet.notdecoded[-4:-3]))
+			rssi_val = -(256-ord(packet.notdecoded[-2:-1]))
 			fields.append(str(rssi_val))
 
 		logger.info(delimiter.join(fields))
@@ -80,11 +91,21 @@ def main():
 		sys.exit(-1)
 	
 	DEBUG = args.debug
+        
+        #msg = {"type": "note", "title": "RPi_102", "body": "Sniffer On"}
+        #TOKEN = 'o.nm5hrJ6RbTTpOVPlkgal1k0ByraB8DuI'
+        #resp = requests.post('https://api.pushbullet.com/v2/pushes', data=json.dumps(msg),
+        #                headers={'Authorization': 'Bearer ' + TOKEN, 'Content-Type': 'application/json'})
+        #if resp.status_code != 200:
+        #        raise Exception('Something wrong')
+        #else:
+        #        print 'complete sending'
 
 	# setup our rotating logger
-	logger = logging.getLogger(NAME)
+	logname = datetime.now().strftime('%Y%m%d')+'.log'
+        logger = logging.getLogger(NAME)
 	logger.setLevel(logging.INFO)
-	handler = RotatingFileHandler(args.output, maxBytes=args.max_bytes, backupCount=args.max_backups)
+	handler = RotatingFileHandler(logname, maxBytes=args.max_bytes, backupCount=args.max_backups)
 	logger.addHandler(handler)
 	if args.log:
 		logger.addHandler(logging.StreamHandler(sys.stdout))
